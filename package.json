@@ -1,0 +1,43 @@
+{
+  "name": "next-ai-tools-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-Powered SaaS Tools Marketplace - Discover, compare, and find the best AI & SaaS tools",
+  "author": {
+    "name": "Hari Krishna Anem",
+    "email": "anemharikrishna@gmail.com",
+    "url": "https://harikrishna.is-a-good.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HariKrishna-9885699666"
+  },
+  "keywords": [
+    "ai-tools",
+    "saas",
+    "marketplace",
+    "nextjs",
+    "react"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

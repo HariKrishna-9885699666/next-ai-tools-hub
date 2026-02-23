@@ -1,0 +1,957 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "description": "Advanced AI chatbot by OpenAI for conversation, content generation, coding help, and more.",
+    "longDescription": "ChatGPT is an AI-powered conversational assistant developed by OpenAI. Built on the GPT architecture, it can engage in natural language conversations, generate creative content, help with coding tasks, answer questions, and assist with a wide range of intellectual tasks. It supports plugins, image understanding, and custom GPTs.",
+    "websiteUrl": "https://chat.openai.com",
+    "category": "ai-tools",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "nlp",
+      "content-generation",
+      "coding",
+      "ai-assistant"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-15",
+    "launchDate": "2022-11-30",
+    "externalRankingWeight": 1,
+    "features": [
+      "Natural language conversation",
+      "Code generation",
+      "Image understanding",
+      "Custom GPTs",
+      "Plugin ecosystem"
+    ]
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "description": "Anthropic's AI assistant focused on safety, helpfulness, and long-context understanding.",
+    "longDescription": "Claude is an AI assistant created by Anthropic. It excels at thoughtful, nuanced conversations and can process very long documents. Known for its strong reasoning capabilities, careful handling of sensitive topics, and ability to follow complex instructions accurately.",
+    "websiteUrl": "https://claude.ai",
+    "category": "ai-tools",
+    "pricing": "freemium",
+    "tags": [
+      "chatbot",
+      "nlp",
+      "reasoning",
+      "long-context",
+      "ai-assistant"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-10",
+    "launchDate": "2023-03-14",
+    "externalRankingWeight": 0.95,
+    "features": [
+      "200K context window",
+      "Document analysis",
+      "Code generation",
+      "Vision capabilities",
+      "Artifacts"
+    ]
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer that suggests code completions and entire functions in your editor.",
+    "longDescription": "GitHub Copilot is an AI coding assistant that integrates directly into your IDE. Powered by OpenAI Codex, it provides intelligent code suggestions, completes entire functions, and helps you write code faster. It supports dozens of programming languages and understands context from your codebase.",
+    "websiteUrl": "https://github.com/features/copilot",
+    "category": "developer-tools",
+    "pricing": "paid",
+    "tags": [
+      "coding",
+      "ide",
+      "autocomplete",
+      "ai-assistant",
+      "developer"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-01",
+    "launchDate": "2021-06-29",
+    "externalRankingWeight": 0.92,
+    "features": [
+      "Code completion",
+      "Multi-language support",
+      "IDE integration",
+      "Chat interface",
+      "Code review"
+    ]
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "description": "AI-powered image generation tool that creates stunning art from text descriptions.",
+    "longDescription": "Midjourney is a generative AI tool that creates images from natural language descriptions. Known for producing highly aesthetic and artistic outputs, it has become one of the most popular AI art generators. It operates through Discord and a web interface.",
+    "websiteUrl": "https://midjourney.com",
+    "category": "design-tools",
+    "pricing": "paid",
+    "tags": [
+      "image-generation",
+      "art",
+      "creative",
+      "ai-art",
+      "design"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-20",
+    "launchDate": "2022-07-12",
+    "externalRankingWeight": 0.9,
+    "features": [
+      "Text-to-image generation",
+      "Style customization",
+      "Upscaling",
+      "Variations",
+      "Web editor"
+    ]
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "description": "AI-first code editor built for pair programming with AI, based on VS Code.",
+    "longDescription": "Cursor is an AI-powered code editor that reimagines the development experience. Built on VS Code, it provides deep AI integration for code generation, editing, debugging, and understanding. Features include inline editing, chat, and the ability to reference your entire codebase.",
+    "websiteUrl": "https://cursor.com",
+    "category": "developer-tools",
+    "pricing": "freemium",
+    "tags": [
+      "ide",
+      "coding",
+      "ai-assistant",
+      "developer",
+      "editor"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-18",
+    "launchDate": "2023-03-01",
+    "externalRankingWeight": 0.93,
+    "features": [
+      "AI code generation",
+      "Codebase understanding",
+      "Inline editing",
+      "Multi-file editing",
+      "Terminal integration"
+    ]
+  },
+  {
+    "slug": "vercel-v0",
+    "name": "v0 by Vercel",
+    "description": "AI-powered UI generator that creates React components from text descriptions.",
+    "longDescription": "v0 is a generative UI tool by Vercel that transforms text descriptions into production-ready React components. It understands modern web design patterns and outputs clean, accessible code using Tailwind CSS and shadcn/ui components.",
+    "websiteUrl": "https://v0.dev",
+    "category": "no-code",
+    "pricing": "freemium",
+    "tags": [
+      "ui-generation",
+      "react",
+      "frontend",
+      "ai-assistant",
+      "no-code"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-12",
+    "launchDate": "2023-09-01",
+    "externalRankingWeight": 0.85,
+    "features": [
+      "Text-to-UI generation",
+      "React components",
+      "Tailwind CSS",
+      "Iterative refinement",
+      "Code export"
+    ]
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "description": "AI-powered workspace that helps with writing, summarizing, and organizing knowledge.",
+    "longDescription": "Notion AI integrates artificial intelligence directly into the Notion workspace. It can help draft documents, summarize notes, extract action items, translate text, and brainstorm ideas—all within your existing workflow.",
+    "websiteUrl": "https://notion.so",
+    "category": "productivity",
+    "pricing": "freemium",
+    "tags": [
+      "workspace",
+      "notes",
+      "ai-assistant",
+      "writing",
+      "organization"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-25",
+    "launchDate": "2023-02-22",
+    "externalRankingWeight": 0.88,
+    "features": [
+      "AI writing assistant",
+      "Document summarization",
+      "Knowledge management",
+      "Task management",
+      "Team collaboration"
+    ]
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "description": "AI content platform for marketing teams to create on-brand content at scale.",
+    "longDescription": "Jasper is an AI marketing platform designed for enterprise teams. It helps create blog posts, social media content, email campaigns, and ad copy while maintaining brand voice and style guidelines.",
+    "websiteUrl": "https://jasper.ai",
+    "category": "marketing-tools",
+    "pricing": "paid",
+    "tags": [
+      "content-generation",
+      "marketing",
+      "copywriting",
+      "brand",
+      "ai-assistant"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-15",
+    "launchDate": "2021-01-01",
+    "externalRankingWeight": 0.78,
+    "features": [
+      "Brand voice AI",
+      "Campaign creation",
+      "Content templates",
+      "Team collaboration",
+      "Analytics"
+    ]
+  },
+  {
+    "slug": "langchain",
+    "name": "LangChain",
+    "description": "Open-source framework for building applications powered by large language models.",
+    "longDescription": "LangChain is a popular open-source framework for developing applications with LLMs. It provides tools for prompt management, chain creation, data augmented generation, agents, and memory—making it easier to build sophisticated AI applications.",
+    "websiteUrl": "https://langchain.com",
+    "category": "open-source",
+    "pricing": "open-source",
+    "tags": [
+      "llm",
+      "framework",
+      "python",
+      "agents",
+      "rag"
+    ],
+    "githubRepo": "langchain-ai/langchain",
+    "githubStars": 102000,
+    "lastUpdated": "2026-02-20",
+    "launchDate": "2022-10-01",
+    "externalRankingWeight": 0.9,
+    "features": [
+      "Chain composition",
+      "Agent framework",
+      "RAG support",
+      "Memory management",
+      "Tool integration"
+    ]
+  },
+  {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "description": "The AI community platform for sharing models, datasets, and building ML applications.",
+    "longDescription": "Hugging Face is the leading platform for the machine learning community. It hosts thousands of pre-trained models, datasets, and ML demos. The Transformers library provides easy access to state-of-the-art NLP, computer vision, and audio models.",
+    "websiteUrl": "https://huggingface.co",
+    "category": "open-source",
+    "pricing": "freemium",
+    "tags": [
+      "ml-platform",
+      "models",
+      "datasets",
+      "transformers",
+      "community"
+    ],
+    "githubRepo": "huggingface/transformers",
+    "githubStars": 140000,
+    "lastUpdated": "2026-02-21",
+    "launchDate": "2018-01-01",
+    "externalRankingWeight": 0.92,
+    "features": [
+      "Model hub",
+      "Datasets",
+      "Spaces",
+      "Inference API",
+      "AutoTrain"
+    ]
+  },
+  {
+    "slug": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "description": "Open-source AI image generation model that runs locally or in the cloud.",
+    "longDescription": "Stable Diffusion is an open-source deep learning model for generating images from text prompts. Unlike cloud-only solutions, it can run on consumer hardware, giving users full control over the generation process and enabling extensive customization.",
+    "websiteUrl": "https://stability.ai",
+    "category": "open-source",
+    "pricing": "open-source",
+    "tags": [
+      "image-generation",
+      "open-source",
+      "ai-art",
+      "deep-learning",
+      "local"
+    ],
+    "githubRepo": "Stability-AI/stablediffusion",
+    "githubStars": 68000,
+    "lastUpdated": "2026-01-10",
+    "launchDate": "2022-08-22",
+    "externalRankingWeight": 0.85,
+    "features": [
+      "Text-to-image",
+      "Image-to-image",
+      "Inpainting",
+      "ControlNet support",
+      "Local deployment"
+    ]
+  },
+  {
+    "slug": "zapier",
+    "name": "Zapier",
+    "description": "Automation platform connecting 6,000+ apps to automate workflows without code.",
+    "longDescription": "Zapier is a no-code automation platform that connects thousands of apps together. Create automated workflows (Zaps) that trigger actions across different services, saving hours of repetitive work. Now includes AI-powered features for smarter automations.",
+    "websiteUrl": "https://zapier.com",
+    "category": "automation",
+    "pricing": "freemium",
+    "tags": [
+      "automation",
+      "integration",
+      "workflow",
+      "no-code",
+      "productivity"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-05",
+    "launchDate": "2012-01-01",
+    "externalRankingWeight": 0.82,
+    "features": [
+      "6000+ app integrations",
+      "Multi-step workflows",
+      "AI actions",
+      "Conditional logic",
+      "Scheduled triggers"
+    ]
+  },
+  {
+    "slug": "make",
+    "name": "Make (Integromat)",
+    "description": "Visual automation platform for creating complex workflows with a drag-and-drop builder.",
+    "longDescription": "Make (formerly Integromat) is a visual automation platform that lets you design, build, and automate complex workflows. Its visual builder makes it easy to connect apps and services, transform data, and create sophisticated automation scenarios.",
+    "websiteUrl": "https://make.com",
+    "category": "automation",
+    "pricing": "freemium",
+    "tags": [
+      "automation",
+      "workflow",
+      "visual-builder",
+      "integration",
+      "no-code"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-28",
+    "launchDate": "2016-01-01",
+    "externalRankingWeight": 0.75,
+    "features": [
+      "Visual workflow builder",
+      "1500+ integrations",
+      "Data transformation",
+      "Error handling",
+      "Real-time execution"
+    ]
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "description": "Collaborative design tool for teams to create, prototype, and ship products together.",
+    "longDescription": "Figma is a cloud-based design and prototyping tool that enables real-time collaboration. It's the industry standard for UI/UX design, offering vector editing, prototyping, design systems, and now AI-powered features for faster design workflows.",
+    "websiteUrl": "https://figma.com",
+    "category": "design-tools",
+    "pricing": "freemium",
+    "tags": [
+      "design",
+      "ui-ux",
+      "prototyping",
+      "collaboration",
+      "design-system"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-08",
+    "launchDate": "2016-09-01",
+    "externalRankingWeight": 0.88,
+    "features": [
+      "Real-time collaboration",
+      "Vector editing",
+      "Prototyping",
+      "Design systems",
+      "AI features"
+    ]
+  },
+  {
+    "slug": "canva",
+    "name": "Canva",
+    "description": "All-in-one design platform with AI-powered tools for creating visual content.",
+    "longDescription": "Canva is a graphic design platform that makes it easy for anyone to create professional-quality visual content. With thousands of templates, AI-powered tools like Magic Design, and an intuitive drag-and-drop editor, it serves everyone from individuals to enterprise teams.",
+    "websiteUrl": "https://canva.com",
+    "category": "design-tools",
+    "pricing": "freemium",
+    "tags": [
+      "design",
+      "templates",
+      "graphics",
+      "social-media",
+      "ai-design"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-30",
+    "launchDate": "2013-01-01",
+    "externalRankingWeight": 0.85,
+    "features": [
+      "Magic Design AI",
+      "Thousands of templates",
+      "Brand kit",
+      "Video editing",
+      "Team collaboration"
+    ]
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant for grammar, tone, clarity, and style improvement.",
+    "longDescription": "Grammarly is an AI writing assistant that helps improve grammar, spelling, punctuation, clarity, and tone. It works across browsers, email clients, and documents, providing real-time suggestions and now includes generative AI features.",
+    "websiteUrl": "https://grammarly.com",
+    "category": "writing",
+    "pricing": "freemium",
+    "tags": [
+      "writing",
+      "grammar",
+      "ai-assistant",
+      "editing",
+      "content"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-22",
+    "launchDate": "2009-01-01",
+    "externalRankingWeight": 0.82,
+    "features": [
+      "Grammar checking",
+      "Tone detection",
+      "Generative AI",
+      "Browser extension",
+      "Style guide"
+    ]
+  },
+  {
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "description": "AI-powered copywriting tool for generating marketing copy, emails, and social posts.",
+    "longDescription": "Copy.ai uses artificial intelligence to help marketers and content creators generate high-quality copy quickly. From blog posts to social media captions, email subject lines to product descriptions, it provides AI-driven writing assistance.",
+    "websiteUrl": "https://copy.ai",
+    "category": "writing",
+    "pricing": "freemium",
+    "tags": [
+      "copywriting",
+      "marketing",
+      "ai-assistant",
+      "content-generation",
+      "social-media"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-18",
+    "launchDate": "2020-01-01",
+    "externalRankingWeight": 0.72,
+    "features": [
+      "AI copywriting",
+      "90+ templates",
+      "Workflows",
+      "Brand voice",
+      "Multilingual"
+    ]
+  },
+  {
+    "slug": "ollama",
+    "name": "Ollama",
+    "description": "Run large language models locally on your machine with a simple CLI interface.",
+    "longDescription": "Ollama makes it easy to run large language models locally. With a simple command-line interface, you can download and run models like Llama, Mistral, and CodeLlama on your own hardware, maintaining full privacy and control over your AI interactions.",
+    "websiteUrl": "https://ollama.ai",
+    "category": "open-source",
+    "pricing": "open-source",
+    "tags": [
+      "llm",
+      "local-ai",
+      "privacy",
+      "cli",
+      "self-hosted"
+    ],
+    "githubRepo": "ollama/ollama",
+    "githubStars": 115000,
+    "lastUpdated": "2026-02-19",
+    "launchDate": "2023-08-01",
+    "externalRankingWeight": 0.88,
+    "features": [
+      "Local LLM running",
+      "Model library",
+      "API server",
+      "GPU acceleration",
+      "Custom models"
+    ]
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "description": "Frontend cloud platform for deploying and hosting web applications with zero config.",
+    "longDescription": "Vercel is a cloud platform for frontend developers that provides the best developer experience for building and deploying web applications. It's the company behind Next.js and offers edge functions, analytics, and seamless Git integration.",
+    "websiteUrl": "https://vercel.com",
+    "category": "developer-tools",
+    "pricing": "freemium",
+    "tags": [
+      "hosting",
+      "deployment",
+      "frontend",
+      "edge",
+      "serverless"
+    ],
+    "githubRepo": "vercel/vercel",
+    "githubStars": 13000,
+    "lastUpdated": "2026-02-15",
+    "launchDate": "2015-01-01",
+    "externalRankingWeight": 0.85,
+    "features": [
+      "Edge functions",
+      "Instant deploys",
+      "Preview deployments",
+      "Analytics",
+      "AI SDK"
+    ]
+  },
+  {
+    "slug": "supabase",
+    "name": "Supabase",
+    "description": "Open-source Firebase alternative with a Postgres database, auth, and real-time subscriptions.",
+    "longDescription": "Supabase is an open-source backend-as-a-service that provides a full suite of tools including a Postgres database, authentication, real-time subscriptions, edge functions, and storage. It's the fastest growing open-source Firebase alternative.",
+    "websiteUrl": "https://supabase.com",
+    "category": "developer-tools",
+    "pricing": "freemium",
+    "tags": [
+      "database",
+      "auth",
+      "backend",
+      "real-time",
+      "open-source"
+    ],
+    "githubRepo": "supabase/supabase",
+    "githubStars": 78000,
+    "lastUpdated": "2026-02-20",
+    "launchDate": "2020-01-01",
+    "externalRankingWeight": 0.87,
+    "features": [
+      "Postgres database",
+      "Authentication",
+      "Real-time subscriptions",
+      "Edge functions",
+      "Storage"
+    ]
+  },
+  {
+    "slug": "semrush",
+    "name": "Semrush",
+    "description": "All-in-one digital marketing toolkit for SEO, content marketing, and competitive research.",
+    "longDescription": "Semrush is a comprehensive digital marketing platform offering tools for SEO, PPC, content marketing, social media, and competitive research. It helps marketers improve their online visibility and discover marketing insights.",
+    "websiteUrl": "https://semrush.com",
+    "category": "marketing-tools",
+    "pricing": "paid",
+    "tags": [
+      "seo",
+      "marketing",
+      "analytics",
+      "competitor-analysis",
+      "content"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-25",
+    "launchDate": "2008-01-01",
+    "externalRankingWeight": 0.8,
+    "features": [
+      "Keyword research",
+      "Site audit",
+      "Backlink analysis",
+      "Content marketing",
+      "Social media tools"
+    ]
+  },
+  {
+    "slug": "ahrefs",
+    "name": "Ahrefs",
+    "description": "SEO toolset for growing search traffic, researching competitors, and monitoring your niche.",
+    "longDescription": "Ahrefs is a comprehensive SEO toolset that helps you grow your search traffic. It includes tools for backlink analysis, keyword research, competitor analysis, rank tracking, and site auditing—used by marketers and SEO professionals worldwide.",
+    "websiteUrl": "https://ahrefs.com",
+    "category": "marketing-tools",
+    "pricing": "paid",
+    "tags": [
+      "seo",
+      "backlinks",
+      "keyword-research",
+      "competitor-analysis",
+      "marketing"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-01",
+    "launchDate": "2011-01-01",
+    "externalRankingWeight": 0.78,
+    "features": [
+      "Site explorer",
+      "Keywords explorer",
+      "Content explorer",
+      "Rank tracker",
+      "Site audit"
+    ]
+  },
+  {
+    "slug": "mixpanel",
+    "name": "Mixpanel",
+    "description": "Product analytics platform that helps teams understand user behavior and drive growth.",
+    "longDescription": "Mixpanel is a product analytics platform that helps teams analyze how users interact with their products. It provides powerful event tracking, funnel analysis, retention reports, and A/B testing capabilities to help data-driven product decisions.",
+    "websiteUrl": "https://mixpanel.com",
+    "category": "analytics",
+    "pricing": "freemium",
+    "tags": [
+      "analytics",
+      "product-analytics",
+      "user-behavior",
+      "funnels",
+      "retention"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-20",
+    "launchDate": "2009-01-01",
+    "externalRankingWeight": 0.75,
+    "features": [
+      "Event tracking",
+      "Funnel analysis",
+      "Retention reports",
+      "A/B testing",
+      "User segmentation"
+    ]
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "description": "Open-source product analytics suite with feature flags, session replay, and A/B testing.",
+    "longDescription": "PostHog is an open-source product analytics platform that combines product analytics, session recording, feature flags, and A/B testing in one platform. It can be self-hosted for full data control or used as a cloud service.",
+    "websiteUrl": "https://posthog.com",
+    "category": "analytics",
+    "pricing": "freemium",
+    "tags": [
+      "analytics",
+      "open-source",
+      "feature-flags",
+      "session-replay",
+      "ab-testing"
+    ],
+    "githubRepo": "PostHog/posthog",
+    "githubStars": 25000,
+    "lastUpdated": "2026-02-18",
+    "launchDate": "2020-01-01",
+    "externalRankingWeight": 0.8,
+    "features": [
+      "Product analytics",
+      "Session recording",
+      "Feature flags",
+      "A/B testing",
+      "Self-hosted option"
+    ]
+  },
+  {
+    "slug": "bubble",
+    "name": "Bubble",
+    "description": "No-code platform for building fully functional web applications with complex logic.",
+    "longDescription": "Bubble is a powerful no-code platform that enables anyone to build fully functional web applications. It includes a visual editor for design, workflows for logic, a built-in database, and API connections—all without writing code.",
+    "websiteUrl": "https://bubble.io",
+    "category": "no-code",
+    "pricing": "freemium",
+    "tags": [
+      "no-code",
+      "web-app",
+      "visual-builder",
+      "database",
+      "workflows"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-15",
+    "launchDate": "2012-01-01",
+    "externalRankingWeight": 0.72,
+    "features": [
+      "Visual app builder",
+      "Built-in database",
+      "Workflow logic",
+      "API connector",
+      "Responsive design"
+    ]
+  },
+  {
+    "slug": "retool",
+    "name": "Retool",
+    "description": "Low-code platform for building internal tools and admin panels quickly.",
+    "longDescription": "Retool is a low-code platform designed for building internal tools fast. Connect to any database or API, drag and drop UI components, and write JavaScript to customize—enabling developers to build admin panels, dashboards, and CRUD apps in hours.",
+    "websiteUrl": "https://retool.com",
+    "category": "no-code",
+    "pricing": "freemium",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "admin-panel",
+      "dashboard",
+      "developer"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-05",
+    "launchDate": "2017-01-01",
+    "externalRankingWeight": 0.76,
+    "features": [
+      "Drag-and-drop builder",
+      "Database connectors",
+      "Custom JavaScript",
+      "Permission management",
+      "Version control"
+    ]
+  },
+  {
+    "slug": "linear",
+    "name": "Linear",
+    "description": "Streamlined project management tool built for modern software teams.",
+    "longDescription": "Linear is a project management and issue tracking tool designed specifically for software development teams. Known for its speed, beautiful design, and keyboard-first workflow, it helps teams plan, track, and ship software efficiently.",
+    "websiteUrl": "https://linear.app",
+    "category": "productivity",
+    "pricing": "freemium",
+    "tags": [
+      "project-management",
+      "issue-tracking",
+      "developer",
+      "agile",
+      "team"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-10",
+    "launchDate": "2019-01-01",
+    "externalRankingWeight": 0.82,
+    "features": [
+      "Issue tracking",
+      "Project management",
+      "Cycles",
+      "Roadmaps",
+      "Git integration"
+    ]
+  },
+  {
+    "slug": "raycast",
+    "name": "Raycast",
+    "description": "Blazingly fast launcher and productivity tool for macOS with AI capabilities.",
+    "longDescription": "Raycast is a productivity tool for macOS that replaces Spotlight with a powerful, extensible launcher. It includes AI chat, clipboard history, snippets, window management, and a rich ecosystem of extensions built by the community.",
+    "websiteUrl": "https://raycast.com",
+    "category": "productivity",
+    "pricing": "freemium",
+    "tags": [
+      "launcher",
+      "productivity",
+      "macos",
+      "ai-assistant",
+      "extensions"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-14",
+    "launchDate": "2020-01-01",
+    "externalRankingWeight": 0.8,
+    "features": [
+      "AI chat",
+      "Clipboard history",
+      "Snippets",
+      "Window management",
+      "Extension store"
+    ]
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity AI",
+    "description": "AI-powered search engine that provides sourced answers with real-time information.",
+    "longDescription": "Perplexity AI is an AI-powered answer engine that provides cited, sourced answers to questions. It combines large language models with real-time web search to deliver accurate, up-to-date information with transparent source attribution.",
+    "websiteUrl": "https://perplexity.ai",
+    "category": "ai-tools",
+    "pricing": "freemium",
+    "tags": [
+      "search",
+      "ai-assistant",
+      "research",
+      "citations",
+      "real-time"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-20",
+    "launchDate": "2022-12-01",
+    "externalRankingWeight": 0.88,
+    "features": [
+      "AI-powered search",
+      "Source citations",
+      "Real-time data",
+      "Follow-up questions",
+      "Focus modes"
+    ]
+  },
+  {
+    "slug": "dify",
+    "name": "Dify",
+    "description": "Open-source LLM app development platform for building AI workflows and chatbots.",
+    "longDescription": "Dify is an open-source platform for building LLM-powered applications. It provides a visual workflow builder, RAG pipeline, agent framework, and model management—enabling developers and non-developers to create AI applications quickly.",
+    "websiteUrl": "https://dify.ai",
+    "category": "open-source",
+    "pricing": "open-source",
+    "tags": [
+      "llm",
+      "workflow",
+      "chatbot",
+      "rag",
+      "open-source"
+    ],
+    "githubRepo": "langgenius/dify",
+    "githubStars": 85000,
+    "lastUpdated": "2026-02-21",
+    "launchDate": "2023-05-01",
+    "externalRankingWeight": 0.86,
+    "features": [
+      "Visual workflow builder",
+      "RAG pipeline",
+      "Agent framework",
+      "Multi-model support",
+      "Self-hosted"
+    ]
+  },
+  {
+    "slug": "n8n",
+    "name": "n8n",
+    "description": "Open-source workflow automation tool with a visual editor and self-hosting option.",
+    "longDescription": "n8n is an open-source workflow automation platform that gives you the flexibility of code with the speed of no-code. Build complex automations with a visual editor, connect to 400+ integrations, and self-host for complete data control.",
+    "websiteUrl": "https://n8n.io",
+    "category": "automation",
+    "pricing": "open-source",
+    "tags": [
+      "automation",
+      "workflow",
+      "open-source",
+      "self-hosted",
+      "integration"
+    ],
+    "githubRepo": "n8n-io/n8n",
+    "githubStars": 62000,
+    "lastUpdated": "2026-02-19",
+    "launchDate": "2019-01-01",
+    "externalRankingWeight": 0.82,
+    "features": [
+      "Visual workflow editor",
+      "400+ integrations",
+      "Self-hosted",
+      "Code nodes",
+      "AI capabilities"
+    ]
+  },
+  {
+    "slug": "writesonic",
+    "name": "Writesonic",
+    "description": "AI writing platform for creating SEO-optimized content, blogs, and marketing copy.",
+    "longDescription": "Writesonic is an AI-powered writing tool that helps create SEO-optimized content at scale. It offers tools for blog writing, ad copy, landing pages, and product descriptions, with built-in SEO optimization and fact-checking capabilities.",
+    "websiteUrl": "https://writesonic.com",
+    "category": "writing",
+    "pricing": "freemium",
+    "tags": [
+      "writing",
+      "seo",
+      "content-generation",
+      "marketing",
+      "ai-assistant"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-12",
+    "launchDate": "2021-01-01",
+    "externalRankingWeight": 0.68,
+    "features": [
+      "AI article writer",
+      "SEO optimization",
+      "Fact-checking",
+      "Brand voice",
+      "Multiple languages"
+    ]
+  },
+  {
+    "slug": "amplitude",
+    "name": "Amplitude",
+    "description": "Digital analytics platform for understanding user behavior and driving product growth.",
+    "longDescription": "Amplitude is a digital analytics platform that helps product and growth teams understand user behavior. It provides behavioral analytics, experimentation, and customer data platform capabilities to drive data-informed product decisions.",
+    "websiteUrl": "https://amplitude.com",
+    "category": "analytics",
+    "pricing": "freemium",
+    "tags": [
+      "analytics",
+      "product-analytics",
+      "experimentation",
+      "user-behavior",
+      "growth"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-01-28",
+    "launchDate": "2012-01-01",
+    "externalRankingWeight": 0.76,
+    "features": [
+      "Behavioral analytics",
+      "Experimentation",
+      "Customer data platform",
+      "AI insights",
+      "Cohort analysis"
+    ]
+  },
+  {
+    "slug": "resend",
+    "name": "Resend",
+    "description": "Modern email API for developers built with a great developer experience in mind.",
+    "longDescription": "Resend is an email API designed for developers. It provides a simple, powerful API for sending transactional and marketing emails with excellent deliverability. Built by developers for developers, it integrates seamlessly with modern frameworks.",
+    "websiteUrl": "https://resend.com",
+    "category": "developer-tools",
+    "pricing": "freemium",
+    "tags": [
+      "email",
+      "api",
+      "developer",
+      "transactional",
+      "marketing"
+    ],
+    "githubRepo": "resend/resend-node",
+    "githubStars": 1200,
+    "lastUpdated": "2026-02-10",
+    "launchDate": "2023-01-01",
+    "externalRankingWeight": 0.7,
+    "features": [
+      "Email API",
+      "React email templates",
+      "Webhooks",
+      "Analytics",
+      "Domain verification"
+    ]
+  },
+  {
+    "slug": "framer",
+    "name": "Framer",
+    "description": "Design and publish stunning websites with AI-powered no-code builder.",
+    "longDescription": "Framer is a website builder that combines powerful design tools with no-code publishing. It offers AI-powered features for generating layouts and content, along with advanced animations, CMS capabilities, and responsive design tools.",
+    "websiteUrl": "https://framer.com",
+    "category": "no-code",
+    "pricing": "freemium",
+    "tags": [
+      "website-builder",
+      "design",
+      "no-code",
+      "animation",
+      "cms"
+    ],
+    "githubStars": 0,
+    "lastUpdated": "2026-02-08",
+    "launchDate": "2014-01-01",
+    "externalRankingWeight": 0.78,
+    "features": [
+      "AI website builder",
+      "Advanced animations",
+      "CMS",
+      "Responsive design",
+      "Custom domains"
+    ]
+  }
+]
