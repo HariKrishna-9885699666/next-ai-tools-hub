@@ -1,3 +1,7 @@
+# Next AI Tools Hub
+
+[![Demo](https://img.shields.io/badge/Demo-Live%20Preview-blue?style=for-the-badge)](https://react-multilang-news-platform.vercel.app/)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
